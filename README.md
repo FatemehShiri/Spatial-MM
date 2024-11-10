@@ -1,6 +1,6 @@
 # An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models (EMNLP 2024)
 
-Datasets for "An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models". Our camera-ready copy is [here](https://aclanthology.org/2023.emnlp-main.568/). 
+Datasets for "An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models". Our camera-ready copy is [here](https://arxiv.org/submit/5988550). 
 
 
 **Note:** Please feel free to leave a GitHub issue or shoot me an email at [fatimaa.shirii@gmail.com](mailto:fatimaa.shirii@gmail.com) if you have any questions about the data, or if you'd just like to chat about this (or related) work!
