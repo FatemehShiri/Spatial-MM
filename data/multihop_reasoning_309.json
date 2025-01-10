@@ -1,0 +1,2165 @@
+[
+  {
+    "image_name": "c51cu410c1.jpeg",
+    "question": "Which direction is the adult monkey having a baby monkey on its back facing from camera's perspective?",
+    "answer": "left",
+    "reasoning": "{[adult monkey has baby on back], [adult monkey with baby on back facing left]}",
+    "hop": 2
+  },
+  {
+      "image_name": "a87df479a2.jpeg",
+      "question": "what color is the garment worn by the person sitting to the left from the camera's perspective?",
+      "answer": "pink",
+      "reasoning": "{[person1 is on the left], [person1 is wearing garment], [garment is pink]}",
+      "hop": 3
+  },
+  {
+      "image_name": "c54d97b01e.jpeg",
+      "question": "what color is the cardigan of the person sitting directly behind the individual reading a menu?",
+      "answer": "black",
+      "reasoning": "{[person1 is sitting], [person1 is reading a menu], [person2 is directly behind person1], [person2 is wearing a black cardigan]}",
+      "hop": 4
+  },
+  {
+      "image_name": "9f61408e3a.jpeg",
+      "question": "What is the color of the towel that the dogs are laying down on?",
+      "answer": "pink",
+      "reasoning": "{[dogs on towel], [towel is pink]}",
+      "hop": 2
+  },
+  {
+      "image_name": "d9d4f495e8.jpeg",
+      "question": "Is the lighter horse behind the darker horse?",
+      "answer": "no",
+      "reasoning": "{[lighter horse is closer to the camera], [darker horse is farther from the camera], [lighter horse is in front of darker horse]}",
+      "hop": 3
+  },
+  {
+      "image_name": "6c8349cc72.jpg",
+      "question": "what is the item to the right of the milk bottle close to the woman's hand?",
+      "answer": "glass",
+      "reasoning": "{[glass to the right of milk bottle], [glass near woman's hand]}",
+      "hop": 2
+  },
+  {
+      "image_name": "c9f0f895gb.jpeg",
+      "question": "Is the individual seated on the ladder facing her right side?",
+      "answer": "no",
+      "reasoning": "{[individual seated on the ladder], [female is facing her left side]}",
+      "hop": 2
+  },
+  {
+      "image_name": "33e75ff09d.jpeg",
+      "question": "what is the color of the luggage positioned behind the large plant with broad leaves?",
+      "answer": "red",
+      "reasoning": "{[luggage is behind the plant], [plant has broad leaves], [luggage is red]}",
+      "hop": 3
+  },
+  {
+      "image_name": "70egdf2ec9.jpeg",
+      "question": "Is the orange juice positioned on the top left hand side of the basket with bread?",
+      "answer": "yes",
+      "reasoning": "{[basket contains bread], [orange juice is next to bread], [orange juice is on top left relative to basket with bread]}",
+      "hop": 3
+  },
+  {
+      "image_name": "8e296g067a.jpeg",
+      "question": "which direction is the black cow looking at?",
+      "answer": "back",
+      "reasoning": "{[black cow is behind brown cow], [black cow head is turned away], [black cow looking back]}",
+      "hop": 3
+  },
+  {
+      "image_name": "d82c8d1619.jpeg",
+      "question": "what is the color of the rabbit that is being touched by the right hand of the person?",
+      "answer": "white",
+      "reasoning": "{[rabbit being touched by right hand of person], [rabbit is white]}",
+      "hop": 2
+  },
+  {
+      "image_name": "c81e720d9d.jpeg",
+      "question": "Is the painting located to the left of the plant in the corner of the room?",
+      "answer": "no",
+      "reasoning": "{[painting in corner], [plant in corner], [painting to the right of plant]}",
+      "hop": 3
+  },
+  {
+      "image_name": "a5a2bbf44e33.jpeg",
+      "question": "where is the pink teddy bear from the perspective of the women?",
+      "answer": "right",
+      "reasoning": "{[teddy bear is pink], [pink teddy bear is on the left], [image's left is right from women's perspective], [pink teddy bear on the right from women's perspective]}",
+      "hop": 4
+  },
+  {
+      "image_name": "1649091c5a.jpeg",
+      "question": "is the glass containing red wine positioned to the left of the glass containing milk from the camera's perspective?",
+      "answer": "no",
+      "reasoning": "{[glass contains red wine], [glass contains milk], [glass with red wine is on the right], [glass with milk is in the middle], [camera's right is image's right], [glass with red wine is positioned to the right of glass with milk]}",
+      "hop": 6
+  },
+  {
+      "image_name": "eccbc87i4b.jpg",
+      "question": "what object is directly on the right hand side of the laptop no one using it?",
+      "answer": "mobile phone",
+      "reasoning": "{[laptop1 is unused], [laptop1 on left], [mobile phone on right of laptop1]}",
+      "hop": 3
+  },
+  {
+      "image_name": "c4co4238a0.jpeg",
+      "question": "Where are the breads in the relation to the big light blue plate?",
+      "answer": "on",
+      "reasoning": "{[light blue plate is big], [breads on light blue plate]}",
+      "hop": 2
+  },
+  {
+      "image_name": "a5bfc9e079.jpeg",
+      "question": "what is the color of the dog positioned behind the dog wearing a black harness?",
+      "answer": "brown",
+      "reasoning": "{[dog1 wearing black harness], [dog2 behind dog1], [dog2 is brown]}",
+      "hop": 3
+  },
+  {
+      "image_name": "34973cb38f.jpg",
+      "question": "Where is the woman holding a knife from the perspective of the woman using a pan?",
+      "answer": "right",
+      "reasoning": "{ [woman1 is holding a knife], [woman2 is using a pan], [woman1 is on the left], [woman2 is on the right], [woman1 is on the right from the woman2's perspective]}",
+      "hop": 5
+  },
+  {
+      "image_name": "4e732ced34.jpg",
+      "question": "what is the color of the largest plate that is positioned on the right from the camera's perspective?",
+      "answer": "blue",
+      "reasoning": "[rightmost plate is largest], [largest plate is blue]}",
+      "hop": 2
+  },
+  {
+      "image_name": "1673091c5a.jpeg",
+      "question": "Where is the dog sticking its tongue out from the perspective of the white dog?",
+      "answer": "right",
+      "reasoning": "{[dog1 is sticking tongue out], [dog2 is white], [dog1 is second from the left], [dog2 is second from the right], [dog2's right is image's left], [dog1 to the right from dog2's perspective]}",
+      "hop": 6
+  },
+  {
+      "image_name": "8e296a067a.jpeg",
+      "question": "what fruit is positioned to the right of the red drink?",
+      "answer": "peach",
+      "reasoning": "{[drink is red], [peach to right of red drink]}",
+      "hop": 2
+  },
+  {
+      "image_name": "6512bd43d9.jpg",
+      "question": "where is the white dog from the perspective of the brown dogs?",
+      "answer": "left",
+      "reasoning": "{[brown dogs are on the right], [white dog is on the left], [brown dogs' right is image's left], [white dog is to the left from the perspective of the brown dogs]}",
+      "hop": 4
+  },
+  {
+      "image_name": "f457c545a9.jpg",
+      "question": "is the blue floral tea cups located directly to the left of the oranges from the camera's perspective?",
+      "answer": "no",
+      "reasoning": "{[blue floral tea cups on right], [oranges on the left], [blue floral tea cups to the right of oranges]}",
+      "hop": 3
+  },
+  {
+      "image_name": "c9f0f895fb.jpg",
+      "question": "what is the color of the mug behind the stack of macarons?",
+      "answer": "purple",
+      "reasoning": "{[mug is purple], [mug behind stack of macarons]}",
+      "hop": 2
+  },
+  {
+      "image_name": "a5q2bbf44e85.jpeg",
+      "question": "What pattern is on the beanie worn by the child closest to the camera?",
+      "answer": "striped",
+      "reasoning": "{[child closest to the camera wearing a beanie], [beanie is striped]}",
+      "hop": 2
+  },
+  {
+      "image_name": "a1d0c6e83f.jpg",
+      "question": "what is inside the round dish on the right hand side of the woman?",
+      "answer": "oysters",
+      "reasoning": "{[round dish to the right of the woman], [oysters inside the round dish]}",
+      "hop": 2
+  },
+  {
+      "image_name": "3c59dc048e.jpeg",
+      "question": "which color is the dog is located between the other dogs?",
+      "answer": "black and white",
+      "reasoning": "{[dog1 is black and white], [dog1 between other dogs]}",
+      "hop": 2
+  },
+  {
+      "image_name": "c4wa4238a0.jpeg",
+      "question": "Is the handle of the cup in the front of the girl points to the right?",
+      "answer": "no",
+      "reasoning": "{[girl holding cup1], [cup1 in front of girl], [cup1 handle pointing left]}",
+      "hop": 3
+  },
+  {
+      "image_name": "11665644.jpg",
+      "question": "where is the pink bear from the perspective of the brown bear?",
+      "answer": "left",
+      "reasoning": "{[brown bear is on the left end], [pink bear is next to brown bear], [brown bear's left is image's right], [pink bear is to the left from brown bear's perspective]}",
+      "hop": 4
+  },
+  {
+      "image_name": "19ca14e7ea.jpg",
+      "question": "what is the colour of the garment worn by the person to the left from the bold man's perspective?",
+      "answer": "brown",
+      "reasoning": "{[bold man seated on the left], [woman wearing brown garment on the right], [bold man's left is image's right], [woman's position on the left from bold man's perspective]}",
+      "hop": 4
+  },
+  {
+      "image_name": "67c6a1e7ce.jpeg",
+      "question": "where is the bowl that is filled with vegetables in the relation to the pot with yellow handles from the camera's perspective?",
+      "answer": "top left",
+      "reasoning": "{[bowl is filled with vegetables], [pot has yellow handles], [bowl on top left of the pot]}",
+      "hop": 3
+  },
+  {
+      "image_name": "17e62166fc.jpeg",
+      "question": "which direction is the boy in the blue shirt facing from the camera's perspective?",
+      "answer": "right",
+      "reasoning": "{[boy wearing blue shirt], [boy facing right side of image], [camera's perspective is viewer's perspective]}",
+      "hop": 3
+  },
+  {
+      "image_name": "6ea9ab1baa.jpg",
+      "question": "what is in the middle of the wooden tray?",
+      "answer": "grapes",
+      "reasoning": "{[tray is wooden], [grapes are in the middle of the wooden tray]}",
+      "hop": 2
+  },
+  {
+      "image_name": "17eh2166fc.jpeg",
+      "question": "where is the pot containing white soup located in the relation to the pot containing pink food?",
+      "answer": "right",
+      "reasoning": "{[pot1 contains white soup], [pot2 contains pink food], [pot1 is bottom right], [pot2 is bottom left], [pot1 to the right of pot2]}",
+      "hop": 5
+  },
+  {
+      "image_name": "cfcu208495.jpeg",
+      "question": "where is the camel that is standing from the perspective of the camel sitting in the middle?",
+      "answer": "behind",
+      "reasoning": "{[camel sitting in the middle], [camel is standing], [camel standing is behind camel sitting in the middle]}",
+      "hop": 3
+  },
+  {
+      "image_name": "cfcd208485.jpeg",
+      "question": "what is the design on the cup located to the right of the santa cup?",
+      "answer": "cow",
+      "reasoning": "{[santa cup in center], [cow cup is to the right of santa cup]}",
+      "hop": 2
+  },
+  {
+      "image_name": "b6d967d2f8.jpg",
+      "question": "Is the flying stork on right top of the stork in the nest from the camera's perspective?",
+      "answer": "yes",
+      "reasoning": "{[stork1 is flying], [stork2 in the nest], [stork1 above stork2]}",
+      "hop": 3
+  },
+  {
+      "image_name": "37683cfc74.jpeg",
+      "question": "what is the number written on the tram located to the left from the camera's perspective?",
+      "answer": "2",
+      "reasoning": "{[tram1 is on the left], [tram2 is on the right], [camera's left is image's left], [tram1 has number written 2]}",
+      "hop": 4
+  },
+  {
+      "image_name": "70efdf2ec9.jpeg",
+      "question": "where is the woman with longer hair from camera's perspective?",
+      "answer": "left",
+      "reasoning": "{[woman has longer hair], [woman with longer hair on left], [camera's left is image's left]}",
+      "hop": 3
+  },
+  {
+      "image_name": "20903462.jpeg",
+      "question": "Where is the dark door in relation to the door that is behind the two men?",
+      "answer": "right",
+      "reasoning": "{[door1 behind two men], [door1 on the left], [door2 is dark], [door2 is to the right], [door2 to the right of dark1]}",
+      "hop": 5
+  },
+  {
+      "image_name": "6f4922f955.jpg",
+      "question": "where are orange slices inside a bowl in relation to the wooden board?",
+      "answer": "left",
+      "reasoning": "{[orange slices inside bowl], [small bowl to the left of the wooden board]}",
+      "hop": 2
+  },
+  {
+      "image_name": "e4da3b7fbq.jpg",
+      "question": "what is the color of the cup being held by the person?",
+      "answer": "yellow",
+      "reasoning": "{[person holding cup], [cup is yellow]}",
+      "hop": 2
+  },
+  {
+      "image_name": "a87of679a2.jpg",
+      "question": "where is the mug-like cookie in relation to the cookie with a red bow tie from the camera's perspective?",
+      "answer": "bottom",
+      "reasoning": "{[cookie has red bow tie], [cookie with red bow tie at the top], [mug-like cookie at the bottom]}",
+      "hop": 3
+  },
+  {
+      "image_name": "d67d8ab4f4.jpeg",
+      "question": "Is the gray and red bird on the left from the camera's perspective?",
+      "answer": "no",
+      "reasoning": "{[bird is gray and red], [gray and red bird on the right], [camera's left is image's left]}",
+      "hop": 4
+  },
+  {
+      "image_name": "6364d3f0f4.jpeg",
+      "question": "where is the cutlery in the relation to the plate containing brown food from the camera's perspective?",
+      "answer": "behind",
+      "reasoning": "{[plate contains brown food], [cutlery is behind plate containing brown food]}",
+      "hop": 2
+  },
+  {
+      "image_name": "45s48cce2e.jpeg",
+      "question": "where is the white mug in the relation to the mug the woman touching?",
+      "answer": "right",
+      "reasoning": "{[mug is white], [woman touching brown mug], [white mug to right of brown mug]}",
+      "hop": 3
+  },
+  {
+      "image_name": "98f1370821.jpg",
+      "question": "what color is the pillow on the couch located in the background?",
+      "answer": "yellow",
+      "reasoning": "{[pillow is on couch], [pillow is background object], [pillow is yellow]}",
+      "hop": 3
+  },
+  {
+      "image_name": "49c48cce2e.jpeg",
+      "question": "is there a painting located on the right hand side of the brown door?",
+      "answer": "no",
+      "reasoning": "{[door is brown], [painting is to the left of brown door]}",
+      "hop": 2
+  },
+  {
+      "image_name": "cfcd2084i5.jpeg",
+      "question": "which word is written on the mug that is positioned behind and to the left?",
+      "answer": "regal",
+      "reasoning": "{[mug positioned behind], [mug positioned to the left], [word written on the mug is 'regal']}",
+      "hop": 3
+  },
+  {
+      "image_name": "a5a2bbf44e85.jpeg",
+      "question": "is the bear that the girl on the left holding is biggest bear in this photo?",
+      "answer": "no",
+      "reasoning": "{[girl is on the left], [girl holding bear], [bear is smaller than largest bear] [largest bear on right]}",
+      "hop": 4
+  },
+  {
+      "image_name": "b53b3a3d6a.jpeg",
+      "question": "from the camera's perspective, is the shrimp platter on the left hand side of the round plate with the flower?",
+      "answer": "no",
+      "reasoning": "{[round plate with flower on the left], [shrimp platter on the right], [camera's right is image's right], [shrimp platter on the right of round plate with flower]}",
+      "hop": 4
+  },
+  {
+    "image_name": "3016a75f4c.jpeg",
+    "question": "Where is the dessert bowl located relative to the orange juice glasses from the camera's perspective?",
+    "answer": "below",
+    "reasoning": "{[dessert bowl is below orange juice glasses}, [dessert bowl is on wooden table], [orange juice glasses are on wooden table], [dessert bowl is relative to orange juice glasses from camera's perspective]}",
+    "hop": 4
+  },
+  {
+      "image_name": "eccbc87e1b.jpeg",
+      "question": "where is the mug has a written print says I love you, in relation to the mug with I know text?",
+      "answer": "left",
+      "reasoning": "{[mug has written print says 'i love you'], [mug has written print says 'i know'], [mug with 'i love you' on the left], [mug with 'i know' on the right]}",
+      "hop": 5
+  },
+  {
+      "image_name": "f7177163c8.jpg",
+      "question": "Where is the sitting wolf from camera's perspective?",
+      "answer": "right",
+      "reasoning": "{[wolf is sitting], [wolf is on the right side of the image], [camera's right is image's right], [sitting wolf is on the right from camera's perspective]}",
+      "hop": 4
+  },
+  {
+      "image_name": "8fi4e45fce.jpeg",
+      "question": "where is the mug with the image of 2 horses in relation to the other mug?",
+      "answer": "left",
+      "reasoning": "{[mug has image of 2 horses], [mug with 2 horses on left], [other mug on right]}",
+      "hop": 3
+  },
+  {
+      "image_name": "c9f8f895fb.jpg",
+      "question": "where is the woman has lettuce in her hand from the other woman's perspective?",
+      "answer": "left back",
+      "reasoning": "{[woman1 is holding lettuce in her hand], [woman1 is in background], [woman2 is in foreground], [woman2 is facing camera], [woman1 is to the woman's left and back from woman2's perspective]}",
+      "hop": 5
+  },
+  {
+      "image_name": "c81e718d9d.jpeg",
+      "question": "where is the the blue saucer in relation to white saucer?",
+      "answer": "right bottom",
+      "reasoning": "{[blue saucer is blue], [white saucer is white], [blue saucer below white saucer], [blue saucer to the right of white saucer], [blue saucer is at right bottom from white saucer]}",
+      "hop": 5
+  },
+  {
+      "image_name": "8f14e45fce.jpeg",
+      "question": "where is the light brown cat from the perspective of gray and white cats?",
+      "answer": "right",
+      "reasoning": "\"{  \"[gray and white cats in the center], [light brown cat on the right], [gray and white cats' right is image's right], [light brown cat is right from gray and white cats' perspective]}",
+      "hop": 4
+  },
+  {
+      "image_name": "d645920e39.jpeg",
+      "question": "among the flowers, does the yellow flower have longer stem?",
+      "answer": "yes",
+      "reasoning": "{[yellow flower is flower1], [yellow flower in the center], [flowers have varying stem lengths], [yellow flower has the longest stem], [comparison among flowers], [yellow flower has longer stem compared to other flowers]}",
+      "hop": 6
+  },
+  {
+      "image_name": "c16a5320fa.jpg",
+      "question": "where is the flowers in relation to the white candle nearest to the camera?",
+      "answer": "left",
+      "reasoning": "{[flowers next to white candle nearest to the camera], [flowers to the left of white candle]}",
+      "hop": 2
+  },
+  {
+      "image_name": "d3l9446802.jpeg",
+      "question": "where is the mug located directly on the yellow paper from the perspective of the person wrapping the mug?",
+      "answer": "front",
+      "reasoning": "{[mug is blue], [paper is yellow], [mug on yellow paper], [person wrapping mug], [person perspective is directional], [mug in front of person wrapping]}",
+      "hop": 6
+  },
+  {
+      "image_name": "a5791bce93.jpeg",
+      "question": "what is the color of the horse that is positioned in the middle?",
+      "answer": "brown",
+      "reasoning": "{[horse1 is brown], [horse2 is brown], [horse3 is white], [horse1 next to horse2], [horse2 next to horse3], [horse2 in the middle], [horse2 color is brown]}",
+      "hop": 7
+  },
+  {
+      "image_name": "4e732ced34.jpeg",
+      "question": "Is the bird with spread wings located to the left of the birdhouse?",
+      "answer": "no",
+      "reasoning": "{[bird with spread wings hovering], [birdhouse is in the center], [bird with spread wings is to the right of the birdhouse], [bird not to the left of birdhouse] }",
+      "hop": 4
+  },
+  {
+      "image_name": "eccbc87e4b.jpg",
+      "question": "what color is the cup that is positioned between the red cup and the green cup?",
+      "answer": "purple",
+      "reasoning": "{[red cup to the left of purple cup], [green cup to the right of purple cup], [purple cup between red cup and green cup], [cup between red cup and green cup is purple]}",
+      "hop": 4
+  },
+  {
+      "image_name": "1ff1de7740.jpg",
+      "question": "where is the plate containing sunny-side-up egg in relation to the frying pan?",
+      "answer": "below",
+      "reasoning": "{[plate contains sunny-side-up egg], [sunny-side-up egg is on the table], [frying pan is above the table], [plate with sunny-side-up egg is below the frying pan]}",
+      "hop": 4
+  },
+  {
+      "image_name": "02e74f10e8.jpeg",
+      "question": "what is the color of the hat that the woman is touching with her right hand?",
+      "answer": "white",
+      "reasoning": "{[woman is crouching], [woman is touching hat with right hand], [hat is white]}",
+      "hop": 3
+  },
+  {
+      "image_name": "d3m9446802.jpg",
+      "question": "which color is the dog is on the left of the one wearing a red harness from the viewer's perspective?",
+      "answer": "black and white",
+      "reasoning": "{[dog1 is black and white], [dog1 is on the left], [dog2 is wearing red harness], [dog2 is slightly to the right of dog1}, [\"viewer perspective, is, subjective viewpoint], [black and white dog is on the left of dog wearing red harness from viewer perspective]}",
+      "hop": 8
+  },
+  {
+      "image_name": "c51cc410c1.jpg",
+      "question": "what color is the cup that is in front of the blue cup and to the right of the green cup from camera's perspective?",
+      "answer": "yellow",
+      "reasoning": "{[blue cup is cup], [green cup is cup], [yellow cup is cup], [blue cup is at back], [green cup is in front of blue cup], [yellow cup is to the right of green cup], [yellow cup is in front of blue cup], [yellow cup is the cup in front of the blue cup and to the right of the green cup]}",
+      "hop": 8
+  },
+  {
+      "image_name": "45c48cce2e.jpeg",
+      "question": "which color is the dominant color on the parrot that is on the right from the camera's perspective?",
+      "answer": "red",
+      "reasoning": "{ \"[parrot1 is on the left], [parrot2 is on the right], [parrot2 is dominant color red], [camera's perspective, is, subjective viewpoint], [parrot2 is on right from camera's perspective]}",
+      "hop": 7
+  },
+  {
+      "image_name": "98f1370821.jpeg",
+      "question": "From the camera's perspective, where is the person wearing heart-shaped sunglasses?",
+      "answer": "middle",
+      "reasoning": "{[person wearing heart-shaped sunglasses], [person in the middle], [camera camera's perspective is subjective viewpoint], [person in the middle from camera's perspective]}",
+      "hop": 4
+  },
+  {
+      "image_name": "e4da3b3fbb.jpeg",
+      "question": "where is the woman with beige beanie from the persective of the other person?",
+      "answer": "right",
+      "reasoning": "{[woman wearing beige beanie], [woman on the left], [man on the right], [man perspective's image center], [woman to the right from man's perspective]}",
+      "hop": 5
+  },
+  {
+      "image_name": "eccbc87e4b.jpeg",
+      "question": "what is the color of the mug that is directly to the left and below the yellow one?",
+      "answer": "green",
+      "reasoning": "{[yellow mug is at the top], [green mug is to the left and below the yellow one], [green mug is color of mug directly to left and below the yellow one]}",
+      "hop": 3
+  },
+  {
+      "image_name": "122be0c5cd.jpg",
+      "question": "Is the woman with dark hair color standing on the right from the perspective of the individual holding a notebook?",
+      "answer": "no",
+      "reasoning": "{[woman has dark hair], [woman is standing in the middle], [individual holding notebook is on the left], [notebook holder's right is the middle of image], [woman with dark hair is in the middle from notebook holder's perspective]}",
+      "hop": 5
+  },
+  {
+    "image_name": "8f24e45fce.jpeg",
+    "question": "where is the mug containing dark beer in relation to thr other mugs from the camera's perspective?",
+    "answer": "front middle",
+    "reasoning": "{[mug contains dark beer], [dark beer mug in front], [front of other mugs], [dark beer mug in middle from camera's perspective]}",
+    "hop": 4
+  },
+  {
+      "image_name": "c0c7c76d30.jpg",
+      "question": "what is the gender of the person standing behind the woman with a top bun?",
+      "answer": "female",
+      "reasoning": "{[woman is wearing top bun], [person is behind woman with top bun], [person behind woman with top bun is female]}",
+      "hop": 3
+  },
+  {
+      "image_name": "3c29dc048e.jpg",
+      "question": "where is the lemon in relation to glass containing grapes?",
+      "answer": "left",
+      "reasoning": "{[lemon position left], [lemon color yellow], [glass contains grapes], [grapes are in glass], [lemon is to the left of glass containing grapes]}",
+      "hop": 5
+  },
+  {
+      "image_name": "e319853df7.jpeg",
+      "question": "where is the bird with spread wings in the image from the camera's perspective?",
+      "answer": "left",
+      "reasoning": "{[bird is spread wings], [bird with spread wings is on the left], [camera's left is image's left]}",
+      "hop": 3
+  },
+  {
+      "image_name": "9bf31c7ff0.jpg",
+      "question": "is the person with yellow hat standing on the right side of the person in the rainbow sweater?",
+      "answer": "no",
+      "reasoning": "{[person1 is wearing yellow hat], [person2 is wearing rainbow sweater], [person1 is to the left of person2], [person1 is not to the right of person2]}",
+      "hop": 4
+  },
+  {
+      "image_name": "a87fu679a2.jpeg",
+      "question": "which color is the dog positioned directly in front of the woman?",
+      "answer": "brown",
+      "reasoning": "{[woman is sitting on the right], [brown dog is sitting in front of woman], [brown is color of dog in front of woman]}",
+      "hop": 3
+  },
+  {
+      "image_name": "apb3238922.jpg",
+      "question": "what is the gender of the deer that is directly facing towards camera?",
+      "answer": "female",
+      "reasoning": "{[deer is directly facing towards camera], [deer does not have antlers], [antlerless deer is female]}",
+      "hop": 3
+  },
+  {
+      "image_name": "a5a2bbf44e82.jpg",
+      "question": "what object is directly behind from the perspective of the smaller teddy bear?",
+      "answer": "brown teddy bear",
+      "reasoning": "{[object1 smaller teddy bear\", \"relation in front of\", \"object2 brown teddy bear], [object brown teddy bear\", \"is directly behind from the perspective of smaller teddy bear]}",
+      "hop": 5
+  },
+  {
+      "image_name": "c81e728d9s.jpeg",
+      "question": "which color is cup that its handle is on the right side?",
+      "answer": "brown",
+      "reasoning": "{[brown cup has handle on right side], [cup is brown]}",
+      "hop": 2
+  },
+  {
+      "image_name": "c20ad4d96f.jpg",
+      "question": "where is the basket containing breads in relation to the grapes?",
+      "answer": "left",
+      "reasoning": "{[basket contains breads], [grapes are on the right of the basket with breads], [basket containing breads to the left of grapes]}",
+      "hop": 3
+  },
+  {
+      "image_name": "642e92efb7.jpeg",
+      "question": "what is the color of the dog standing in front of the woman?",
+      "answer": "white and gray",
+      "reasoning": "{[dog standing in front of woman], [dog is white and gray]}",
+      "hop": 2
+  },
+  {
+      "image_name": "c74d97b01e.jpeg",
+      "question": "where is the person with yellow helmet from the other man's perspective?",
+      "answer": "right",
+      "reasoning": "\" [  {\"person has yellow helmet], [other man has white helmet], [yellow helmet person on left], [white helmet person on right], [other man's perspective is from right side], [yellow helmet person is to the right from other man's perspective]}",
+      "hop": 6
+  },
+  {
+      "image_name": "c51ce410c1.jpeg",
+      "question": "what is the color of the rose located to the right of the white rose?",
+      "answer": "pink",
+      "reasoning": "{[white rose is in the middle], [pink rose is to the right of white rose], [rose to the right of the white rose is pink]}",
+      "hop": 3
+  },
+  {
+      "image_name": "1f0w3dad99.jpg",
+      "question": "what is the color of the outfit of the person standing directly behind the person with a white hat?",
+      "answer": "black",
+      "reasoning": "{[person wearing white hat], [person with white hat is in the front], [person behind person with white hat], [person behind is wearing black outfit]}",
+      "hop": 4
+  },
+  {
+      "image_name": "9a1158154d.jpeg",
+      "question": "Is the grey building on the right hand side of the tree with orange leaves?",
+      "answer": "no",
+      "reasoning": "{[grey building is on left], [tree with orange leaves is on right], [grey building to left of tree with orange leaves]}",
+      "hop": 3
+  },
+  {
+      "image_name": "a1d0c6e83f.jpeg",
+      "question": "where is the person who is shouting from the camera's perspective?",
+      "answer": "left",
+      "reasoning": "{[person is shouting], [person is on the left], [camera's perspective is subjective viewpoint], [person who is shouting is on the left from camera's perspective]}",
+      "hop": 4
+  },
+  {
+      "image_name": "c20pd4d76f.jpeg",
+      "question": "Is the longer candle holder to the right of the mirror?",
+      "answer": "yes",
+      "reasoning": "{[longer candle holder is to the right of the mirror], [mirror is to the left of the longer candle holder], [mirror behind shorter candle holder]}",
+      "hop": 3
+  },
+  {
+      "image_name": "a684eceee7.jpg",
+      "question": "Is the red mug in front on the right hand side monitor?",
+      "answer": "no",
+      "reasoning": "{[red mug is in front of left monitor], [red mug is not in front of right monitor]}",
+      "hop": 2
+  },
+  {
+      "image_name": "6512bd43d9.jpeg",
+      "question": "what color are the containers behind the mug with photos?",
+      "answer": "copper",
+      "reasoning": "{[mug has photos], [containers behind mug], [containers are copper color]}",
+      "hop": 3
+  },
+  {
+      "image_name": "2838023a77.jpg",
+      "question": "where is the glass touched by the woman in relation to the white face-shaped cup?",
+      "answer": "behind",
+      "reasoning": "{[woman is touching glass], [glass is pink], [glass is near red drink], [white face-shaped cup is on table], [pink glass is nearest to woman], [white face-shaped cup is in front], [pink glass is behind white face-shaped cup]}",
+      "hop": 7
+  },
+  {
+      "image_name": "45c48cce2e.jpg",
+      "question": "what is the color of the cup that is directly in front of the orange cup and contains blueberries?",
+      "answer": "green",
+      "reasoning": "{[cup is orange], [orange cup is upright], [green cup is overturned on table], [green cup contains blueberries], [green cup is in front of orange cup], [cup with blueberries is green]}",
+      "hop": 6
+  },
+  {
+      "image_name": "e4as3b7fbb.jpg",
+      "question": "Is the shirt color of the person whose mug is at the bottom red and white?",
+      "answer": "yes",
+      "reasoning": "{[mug is at the bottom], [mug is held by a person], [person is wearing a shirt], [shirt is red and white]}",
+      "hop": 4
+  },
+  {
+      "image_name": "1c383cd30b.jpg",
+      "question": "which direction is the black chick facing from camera's perspective?",
+      "answer": "left",
+      "reasoning": "{[black chick is facing towards the left side of the image], [camera's left corresponds to the left side of the image], [black chick is facing left from camera's perspective]}",
+      "hop": 3
+  },
+  {
+      "image_name": "e4da3b7fbs.jpeg",
+      "question": "what is the color of the pants of the person holding the black dog?",
+      "answer": "blue",
+      "reasoning": "{[person holding black dog person on chair], [person on chair wearing blue pants], [pant color blue]}",
+      "hop": 3
+  },
+  {
+      "image_name": "d665920e39.jpg",
+      "question": "what is the color of the chair to the right of the pink chair from the camera's perspective?",
+      "answer": "grey",
+      "reasoning": "{[pink chair is on the left], [grey chair is on the right of pink chair], [camera's right is image's right], [grey chair is to the right of pink chair from the camera's perspective]}",
+      "hop": 4
+  },
+  {
+      "image_name": "1f0e3dad99.jpeg",
+      "question": "what is the position of the birds flying in relation to the bird feeder?",
+      "answer": "left",
+      "reasoning": "{[bird feeder is central], [birds flying], [birds flying are to the left of the bird feeder]}",
+      "hop": 3
+  },
+  {
+      "image_name": "d67w8ag4f4.jpeg",
+      "question": "what is the object to the right of the pepper that is located below the bagels?",
+      "answer": "pomegranate",
+      "reasoning": "{[bagels next to pistachios], [pepper under bagels], [pomegranate to the right of pepper]}",
+      "hop": 3
+  },
+  {
+      "image_name": "c4ca4238a0.jpeg",
+      "question": "what is the color of the mug that is immidiately behind the dish of cookies?",
+      "answer": "blue",
+      "reasoning": "{[dish contains cookies], [dish is on the left], [blue mug is behind dish], [blue mug is behind the dish of cookies]}",
+      "hop": 4
+  },
+  {
+      "image_name": "182be0c5cd.jpeg",
+      "question": "What is the item located between the bowl of hummus and chocolates?",
+      "answer": "carrot sticks",
+      "reasoning": "{[hummus in bowl left], [chocolates on plate top], [carrot sticks on plate center, between hummus and chocolates]}",
+      "hop": 4
+  },
+  {
+        "image_name": "12ddef48c4.jpg",
+        "question": "Where is the boy with green backpack from the perspective of the woman wearing a hat?",
+        "answer": "behind",
+        "reasoning": "{[boy is wearing green backpack], [woman is wearing hat], [boy is in background], [woman is in foreground], [boy is behind woman with hat]}",
+        "hop": 5
+    },
+    {
+        "image_name": "e829d26bc3.jpg",
+        "question": "Which hand is the kid using to touch the orange toy?",
+        "answer": "right",
+        "reasoning": "{[kid is touching toy], [toy is orange], [kid is using right hand to touch toy]}",
+        "hop": 3
+    },
+    {
+        "image_name": "3bf9680481.jpg",
+        "question": "Where is the black dog from the light cat's perspective?",
+        "answer": "left",
+        "reasoning": "{[light cat is third from the left], [black dog is far right], [light cat is to the left of the black dog], [light cat perspective is image's left], [black dog is left from light cat's perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "4b1ec28d4e.jpg",
+        "question": "Where is the brown dog from the black dog's perspective?",
+        "answer": "right front",
+        "reasoning": "{[dog1 is brown], [dog2 chasing brown dog is black], [brown dog in front of black dog], [brown dog to the right from black dog's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "673dffac73.jpg",
+        "question": "Where is the white helmet in relation to the orange helmet from camera's perspective?",
+        "answer": "over",
+        "reasoning": "{[helmet1 is white], [helmet2 is orange], [white helmet is over orange helmet]}",
+        "hop": 3
+    },
+    {
+        "image_name": "50b159b165.jpg",
+        "question": "Where is the green traffic light  in relation to the train from camera's perspective?",
+        "answer": "right",
+        "reasoning": "{[camera's perspective subjective viewpoint], [train on the left], [green traffic light right of train from the camera's perspective]}",
+        "hop": 3
+    },
+    {
+        "image_name": "3b4530a4e8.jpg",
+        "question": "Where is the green apples in relation to the red apples from camera's perspective?",
+        "answer": "right",
+        "reasoning": "{[green apples present], [red apples present], [green apples location right], [red apples location left], [green apples right of red apples from camera's perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "784b42da99.jpg",
+        "question": "Where is the blue parrot from the yellow parrot's perspective?",
+        "answer": "right",
+        "reasoning": "{[yellow parrot is on the right in the image], [blue parrot is on the left in the image], [yellow parrot's right is image's left], [blue parrot is to the right from yellow parrot's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "6f8eeedfd2.jpg",
+        "question": "Where is the white mobile in relation to the black mobile from camera's perspective?",
+        "answer": "right",
+        "reasoning": "{[camera is subjective viewpoint], [white mobile is on right], [black mobile is on left], [white mobile is to the right in relation to black mobile from camera's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "0066fa15fc.jpg",
+        "question": "Where is the blue triangle in relation to the blocks from camera's perspective?",
+        "answer": "middle",
+        "reasoning": "{[triangle is blue], [blue triangle in relation to blocks], [blue triangle surrounded by blocks], [camera's perspective is subjective viewpoint], [blue triangle is in the middle from camera's perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "93475832f9.jpg",
+        "question": "Where is the yellow pencil in relation to the other pencils from camera's perspective?",
+        "answer": "middle",
+        "reasoning": "{[yellow pencil is in middle position], [two other pencils located at each side], [relative position from camera's perspective], [yellow pencil between two other pencils]}",
+        "hop": 4
+    },
+    {
+        "image_name": "c3f0f58a57.jpg",
+        "question": "Is the red traffic light in front of the people?",
+        "answer": "yes",
+        "reasoning": "{[red traffic light is in the image], [people are in the image], [red traffic light is in front of the people]}",
+        "hop": 3
+    },
+    {
+        "image_name": "e33f462ea0.jpg",
+        "question": "On which hand is the man wearing a white wristband?",
+        "answer": "right",
+        "reasoning": "{[man wearing white wristband], [man wearing wristband on right wrist], [right wrist is right hand]}",
+        "hop": 3
+    },
+    {
+        "image_name": "0277ae285f.jpg",
+        "question": "Where is the man with blue helmet from the other people's perspective?",
+        "answer": "right",
+        "reasoning": "{[man1 is wearing blue helmet], [man on the left in image], [two people in the middle and right in the image], [two people's right perspective is image's left], [man with blue helmet is to the right from the perspective of the two other people]}",
+        "hop": 5
+    },
+    {
+        "image_name": "3553bbb126.jpg",
+        "question": "Where is the blue candle in relation to the other candles from camera's perspective?",
+        "answer": "left",
+        "reasoning": "{[blue candle is one of the candles on the cake], [camera's perspective is front view], [blue candle is on the left] }",
+        "hop": 3
+    },
+    {
+        "image_name": "f5b7005031.jpg",
+        "question": "Where is the pasta located in relation to the other ingredients from camera's perspective?",
+        "answer": "middle",
+        "reasoning": "{[pasta is an object in the image], [several ingredients around pasta], [camera's perspective is front view], [pasta is the middle object]}",
+        "hop": 4
+    },
+    {
+        "image_name": "c8a0d90e43.jpg",
+        "question": "Are there people in front of the woman who is working on the laptop?",
+        "answer": "no",
+        "reasoning": "{[woman is working on laptop], [woman is sitting], [people are standing], [people are in the background], [background is behind the woman], [no people are in front of the woman working on the laptop]}",
+        "hop": 6
+    },
+    {
+        "image_name": "f22b454288.jpg",
+        "question": "Are there backgammon black stones on the right of the backgammon white stones from camera's perspective?",
+        "answer": "yes",
+        "reasoning": "{[backgammon black stones on the right side of the board], [backgammon white stones on the left side of the board], [camera's right is image's right], [backgammon black stones to the right of backgammon white stones from the camera's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "bd1aa685ae.jpg",
+        "question": "Where is the lego tower located from the perspective of the boy with pink shirt?",
+        "answer": "front",
+        "reasoning": "{[boy is wearing pink shirt], [boy with pink shirt is to the left], [lego tower is in front of boy with pink shirt], [boy's front is towards lego tower]}",
+        "hop": 4
+    },
+    {
+        "image_name": "fe314554b2.jpg",
+        "question": "From the perspective of the black goat, is there a brown goat on the its left?",
+        "answer": "no",
+        "reasoning": "{[black goat facing forward], [brown goat to the left of the black goat from the camera's perspective], [camera's left is image's left], [brown goat on the right from black goat's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "cedeebd15e.jpg",
+        "question": "Where is the white horse in relation to the other horses?",
+        "answer": "middle",
+        "reasoning": "{[horse 1 is white], [other horses are on the left and right of the white horse], [white horse is in middle of the other horses]}",
+        "hop": 3
+    },
+    {
+        "image_name": "1e4cc14d3b.jpg",
+        "question": "Where is the yellow doughnut in relation to the green doughnut from camera's perspective?",
+        "answer": "left",
+        "reasoning": "{[yellow doughnut is on the left], [green doughnut is on the right], [camera's perspective is image perspective], [yellow doughnut is left of green doughnut] }",
+        "hop": 4
+    },
+    {
+        "image_name": "f19bc519a0.jpg",
+        "question": "Is the red Christmas ornament above the golden Christmas ornament from camera's perspective?",
+        "answer": "no",
+        "reasoning": "{[red ornament is below golden ornament], [golden ornament is above red ornament], [camera's perspective is subjective viewpoint], [golden ornament is above red ornament from camera's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "80aca27c68.jpg",
+        "question": "From the perspective of the black and white dog, is there a brown and white dog on its right side?",
+        "answer": "no",
+        "reasoning": "{[black and white dog is on the left side], [brown and white dog is on the right side], [both dogs facing forward], [black and white dog's right is image's left], [brown and white dog is not on right of black and white dog]}",
+        "hop": 5
+    },
+    {
+        "image_name": "e48a2dccae.jpg",
+        "question": "Is there a small red circle on the left of the mirror from camera's perspective?",
+        "answer": "no",
+        "reasoning": "{[mirror is in the image], [red circle is visible on the mirror], [red circle is on the mirror's right], [camera's left is image's left], [red circle is not on the left of the mirror from camera's perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "50f130459b.jpg",
+        "question": "Is there a glass to the right of the green bottle from camera's perspective?",
+        "answer": "no",
+        "reasoning": "{[green bottle right of glass], [green bottle next to glass], [camera's right is image's right], [no glass to the right of green bottle]}",
+        "hop": 4
+    },
+    {
+        "image_name": "7b6ad9d29e.jpg",
+        "question": "Is the man worn glasses on the left from the perspective of the woman with highlighted hair?",
+        "answer": "no",
+        "reasoning": "{[man is wearing glasses], [woman has highlighted hair], [woman is on the right], [woman's right is image's left], [man with glasses is on the left from the woman's perspective is false]}",
+        "hop": 5
+    },
+    {
+        "image_name": "bcae26745b.jpg",
+        "question": "Is the baby touching the yellow round pouf by his right leg?",
+        "answer": "yes",
+        "reasoning": "{[baby is sitting on woman's lap], [baby's right leg is next to yellow round pouf], [yellow round pouf is to left of baby], [baby's right leg is touching the yellow round pouf]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_toaster.png",
+        "question": "Where are the salt and pepper in relation to the white tea pot from camera's perspective?",
+        "answer": "under",
+        "reasoning": "{[salt and pepper are beside each other on the counter], [white tea pot is on the middle shelf], [white tea pot is above counter], [salt and pepper are under white tea pot]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_black_bridge_f.png",
+        "question": "Is there a flag on top of th white bridge?",
+        "answer": "no",
+        "reasoning": "{[bridge 1 is white (right)], [bridge 2 is black (left)], [flag is on top of black bridge], [white bridge has no flag]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_ball_racket.png",
+        "question": "Is the racket on the white line?",
+        "answer": "yes",
+        "reasoning": "{[racket is on the ground], [racket is touching the white line], [racket on white line]}",
+        "hop": 3
+    },
+    {
+        "image_name": "img_black_bridge.png",
+        "question": "Is there a flag on top of th black bridge?",
+        "answer": "yes",
+        "reasoning": "{[bridge1 is black (right)], [bridge 2 is white (left)], [flag is on top of black bridge]}",
+        "hop": 3
+    },
+    {
+        "image_name": "8e11df035e.jpg",
+        "question": "Are there helmets on the left side from the perspective of the man wearing a blue shirt?",
+        "answer": "no",
+        "reasoning": "{[man1 is wearing blue shirt], [helmets are on the left side of the image], [man's right is image's left], [helmets are on the right side from the man's perspective], [there are no helmets on the left side from the perspective of the man wearing a blue shirt]}",
+        "hop": 5
+    },
+    {
+        "image_name": "f22b454288.jpg",
+        "question": "Are there backgammon black stones on the left of the backgammon white stones from camera's perspective?",
+        "answer": "no",
+        "reasoning": "{[white stones on left side of board], [black stones on right side of board], [camera's perspective, is, subjective viewpoint], [black stones are to the right of white stones from camera's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "fe314554b2.jpg",
+        "question": "From the perspective of the black goat, is there a brown goat on the its right?",
+        "answer": "yes",
+        "reasoning": "{[black goat in right], [brown goat in left], [black goat's right is image's left], [brown goat on the right from black goat's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "80aca27c68.jpg",
+        "question": "From the perspective of the black and white dog, is there a brown and white dog on its left side?",
+        "answer": "yes",
+        "reasoning": "{[black and white dog on the left], [brown and white dog on the right], [black and white dog's left is image's right], [brown and white dog on the left from black and white dog's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "50f130459b.jpg",
+        "question": "Is there a glass to the left of the green bottle from camera's perspective?",
+        "answer": "yes",
+        "reasoning": "{[green bottle is present], [glass is present], [glass is to the left of green bottle from camera's perspective]}",
+        "hop": 3
+    },
+    {
+        "image_name": "7b6ad9d29e.jpg",
+        "question": "Is the man worn glasses on the right from the perspective of the woman with highlighted hair?",
+        "answer": "yes",
+        "reasoning": "{[man is wearing glasses], [woman has highlighted hair], [man is to the left of woman from camera's perspective], [woman's right is image's left], [man is on the right from woman with highlighted hair's perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "bcae26745b.jpg",
+        "question": "Is there a baby touching on a yellow round pouf by his left leg?",
+        "answer": "no",
+        "reasoning": "{[baby is sitting], [yellow round pouf is next to baby], [baby's left leg is not touching yellow round pouf]}",
+        "hop": 3
+    },
+    {
+        "image_name": "3bf9680481.jpg",
+        "question": "Where is the light cat from the black dog's perspective?",
+        "answer": "right",
+        "reasoning": "{[black dog on the right], [light cat to the left], [black dog's right is image's left], [light cat is to the right from black dog's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "4b1ec28d4e.jpg",
+        "question": "Where is the black dog from the brown dog's perspective?",
+        "answer": "left behind",
+        "reasoning": "{[brown dog is in the front], [black dog is behind brown dog], [brown dog's left is image's right], [black dog to the left behind brown dog from brown dog's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "50b159b165.jpg",
+        "question": "Where is the train in relation to the green traffic light from camera's perspective?",
+        "answer": "left",
+        "reasoning": "{[train is on the left side of the image], [green traffic light is centered in the image], [train is left of green traffic light from camera's perspective]}",
+        "hop": 3
+    },
+    {
+        "image_name": "3b4530a4e8.jpg",
+        "question": "Where is the red apples in relation to the green apples from camera's perspective?",
+        "answer": "left",
+        "reasoning": "{[red apples in the image], [green apples in the image], [red apples are to the left], [green apples are to the right], [camera's left is image's left], [red apples left of green apples from camera's perspective]}",
+        "hop": 6
+    },
+    {
+        "image_name": "784b42da99.jpg",
+        "question": "Where is the yellow parrot from the blue parrot's perspective?",
+        "answer": "right",
+        "reasoning": "{[yellow parrot is on right side of the cage], [blue parrot is on left side of the cage], [blue parrot's right perspective is left side image view], [yellow parrot is right from blue parrot's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "6f8eeedfd2.jpg",
+        "question": "Where is the black mobile in relation to the white mobile from camera's perspective?",
+        "answer": "left",
+        "reasoning": "{[black mobile is on the table], [white mobile is on the table], [black mobile is to the left of white mobile], [camera's perspective is subjective viewpoint], [black mobile is to the left of the white mobile from camera's perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "0277ae285f.jpg",
+        "question": "Where are other people from the man with blue helmet's perspective?",
+        "answer": "left",
+        "reasoning": "{[man1 is wearing blue helmet], [others are two people], [two people are wearing yellow and orange helmets], [two people are to the right of the image], [man with blue helmet's left perspective is image's right], [others are to the left from man with blue helmet's perspective]}",
+        "hop": 7
+    },
+    {
+        "image_name": "3553bbb126.jpg",
+        "question": "Where are the other candles in relation to the blue candle from camera's perspective?",
+        "answer": "right",
+        "reasoning": "{[blue candle in the left], [other candles in the middle and right side], [camera's right is image's right], [other candles are to the right of the blue candle from the camera's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "4531d13aac.jpg",
+        "question": "Where is the doctor with white shirt in relation to other people?",
+        "answer": "between",
+        "reasoning": "{[doctor wearing white shirt], [other people includes nurse and elderly woman], [doctor with white shirt is between nurse and elderly woman]}",
+        "hop": 3
+    },
+    {
+        "image_name": "1e4cc14d3b.jpg",
+        "question": "Where is the green doughnut in relation to the yellow doughnut from camera's perspective?",
+        "answer": "right",
+        "reasoning": "{[yellow doughnut to the left], [green doughnut to the right], [camera's perspective image's perspective], [green doughnut right of yellow doughnut from camera's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "people_curly.jpg",
+        "question": "Where is the boy with the sunglasses from the perspective of the boy with the curly hair?",
+        "answer": "right",
+        "reasoning": "{[boy with sunglasses is on the left], [boy with curly hair is in the middle], [boy with curly hair's right is image's left], [boy with curly hair's right is where the boy with sunglasses is]}",
+        "hop": 4
+    },
+    {
+        "image_name": "dogs_running.jpg",
+        "question": "Is the dog jumping higher on the left from the other dog's perspective?",
+        "answer": "no",
+        "reasoning": "{[dog1 jumping higher is left], [dog2 standing is right], [dog2's left is image's right], [jumping dog1 on the right from standing dog2's perspective], [no jumping dog on the left from standing dog's perspective] }",
+        "hop": 5
+    },
+    {
+        "image_name": "dogs_running.jpg",
+        "question": "What is the colour of the dog on the left from camera's perspective?",
+        "answer": "brown",
+        "reasoning": "{[camera's perspective is subjective viewpoint], [dog1 is on the left], [dog2 is on the right], [brown is color of the dog on left]}",
+        "hop": 4
+    },
+    {
+        "image_name": "3416a75f4c.png",
+        "question": "In relation to the man sitting, where is the man who is standing at his desk?",
+        "answer": "behind",
+        "reasoning": "{[man1 is sitting], [man2 is standing at his desk], [man1 is at the desk], [man2 is behind man1]}",
+        "hop": 4
+    },
+    {
+        "image_name": "6f4922f455.jpeg",
+        "question": "Where is the person with white helmet in relation to the staffs with blue helmet?",
+        "answer": "front",
+        "reasoning": "{[person1 is wearing white helmet], [staffs are wearing blue helmets], [person with white helmet is in front], [staffs with blue helmets are at the back]}",
+        "hop": 4
+    },
+    {
+        "image_name": "aab3238922.jpg",
+        "question": "Is there a yellow mug to the left of the blue mug from camera's perspective?",
+        "answer": "yes",
+        "reasoning": "{[yellow mug is on the left], [blue mug is on the right], [camera's perspective is subjective viewpoint], [yellow mug is to the left of the blue mug from camera's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "aab3238922.jpeg",
+        "question": "Is there a red mug inside the electronic device?",
+        "answer": "yes",
+        "reasoning": "{[mug1 is red], [mug is inside electronic device]}",
+        "hop": 2
+    },
+    {
+        "image_name": "aab3238922.jpeg",
+        "question": "Is there a red mug on top of the electronic device?",
+        "answer": "no",
+        "reasoning": "{[red mug is not on top of the electronic device], [yellow mug is on top of the electronic device]}",
+        "hop": 2
+    },
+    {
+        "image_name": "34173cb38f.jpeg",
+        "question": "Do the strawberries inside the cup have chocolate on top?",
+        "answer": "yes",
+        "reasoning": "{[strawberries inside the cup], [strawberries have chocolate on top]}",
+        "hop": 2
+    },
+    {
+        "image_name": "34173cb38f.jpeg",
+        "question": "Are the strawberries outside the cup covered in chocolate?",
+        "answer": "no",
+        "reasoning": "{[strawberries are outside the cup], [strawberries are on the plate], [strawberries not covered in chocolate]}",
+        "hop": 3
+    },
+    {
+        "image_name": "e4da3b7fbb.jpeg",
+        "question": "Where is the purple cup in relation to the red cup and blue cup?",
+        "answer": "middle",
+        "reasoning": "{[red cup left of purple cup], [blue cup right of purple cup], [purple cup between red cup and blue cup]}",
+        "hop": 3
+    },
+    {
+        "image_name": "c20ad4d76f.jpg",
+        "question": "Where is the yellow mug in relation to the blue mug?",
+        "answer": "under",
+        "reasoning": "{[yellow mug at bottom], [blue mug above yellow mug], [yellow mug is under blue mug]}",
+        "hop": 3
+    },
+    {
+        "image_name": "e4da3b7hbb.jpeg",
+        "question": "where is the red mug in relation to the blue mug from camera's perspective?",
+        "answer": "behind",
+        "reasoning": "{[camera's perspective is subjective viewpoint], [red mug is behind the blue mug]}",
+        "hop": 2
+    },
+    {
+        "image_name": "b6d767d2f8.jpeg",
+        "question": "From the perspective of the woman wearing a gray shirt, where is the woman wearing a white shirt seated?",
+        "answer": "right",
+        "reasoning": "{[woman1 is wearing gray shirt], [woman2 wearing white shirt], [woman2 is seated to the left in image], [woman1's right is image's left], [woman wearing white shirt is seated to the right from gray shirt woman\u2019s perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "c4ca4238l0.jpeg",
+        "question": "Where is the mug with the yellow handle positioned in relation to the mug with the pink handle?",
+        "answer": "top",
+        "reasoning": "{[mug1 has yellow handle], [mug2 has pink handle], [mug1 on top], [mug2 on bottom], [mug1 above mug2]}",
+        "hop": 5
+    },
+    {
+        "image_name": "c74d97b91e.jpeg",
+        "question": "Which side is the handle of the mug closer to the vase?",
+        "answer": "right",
+        "reasoning": "{[mug1 has handle], [vase is on the right], [mug handle is on the right of the mug], [mug1 is closer to the vase on the right]}",
+        "hop": 4
+    },
+    {
+        "image_name": "d3d9446802.jpeg",
+        "question": "From which viewpoint is the mug being held by the person seen?",
+        "answer": "top",
+        "reasoning": "{[mug is being held by the person], [mug is seen from the top]}",
+        "hop": 2
+    },
+    {
+        "image_name": "c81e728d9d.jpeg",
+        "question": "What color is the juice inside the glass that is in contact with the orange?",
+        "answer": "red",
+        "reasoning": "{[orange next to red juice], [red juice inside the glass], [glass in contact with the orange], [juice color inside the glass in contact with orange is red]}",
+        "hop": 4
+    },
+    {
+        "image_name": "multi_color.jpeg",
+        "question": "Where is the orange mug located in relation to the book titled 'Collins'?",
+        "answer": "top",
+        "reasoning": "{[mug1 is orange], [mug1 is located at the top relative to the 'collins' book]}",
+        "hop": 2
+    },
+    {
+        "image_name": "a87ff679a2.jpg",
+        "question": "Where is the blue mug in relation to the purple mug?",
+        "answer": "above",
+        "reasoning": "{[mug1 is blue], [mug2 is purple], [mug1 is above mug2], [blue mug is above], [purple mug is below blue mug]}",
+        "hop": 5
+    },
+    {
+        "image_name": "a87ff679a2.jpg",
+        "question": "Is there a red mug to the left of the purple mug from the camera's perspective?",
+        "answer": "no",
+        "reasoning": "{[mug1 is red], [mug2 is purple], [camera's perspective is subjective viewpoint], [mug1 is on the right], [mug1 is not on the left of mug2 }",
+        "hop": 5
+    },
+    {
+        "image_name": "37693cfc74.jpeg",
+        "question": "Where is the woman with red hair seated from the perspective of the man holding a bowl?",
+        "answer": "right",
+        "reasoning": "{[woman1 has red hair], [man1 is holding bowl], [woman1 seated left of man1], [man1's right is image's left], [woman with red hair on right from man with bowl's perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "37693cfc74.jpeg",
+        "question": "Where is the woman with black hair seated from the perspective of the man holding a bowl?",
+        "answer": "left",
+        "reasoning": "{[woman1 has black hair], [man1 is holding a bowl], [woman seated to the right], [man1's left is image's right], [woman1 is on the left from man1's perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "e369853df7.jpeg",
+        "question": "What is the gender of the person standing in the middle?",
+        "answer": "female",
+        "reasoning": "{[person1 standing in middle], [person1 is female]}",
+        "hop": 2
+    },
+    {
+        "image_name": "lunchables.jpeg",
+        "question": "Is the lunchbox containing eggs located to the right of the lunchbox containing cucumber from the camera's perspective?",
+        "answer": "no",
+        "reasoning": "{[lunchbox1 contains eggs], [lunchbox1 in left], [lunchbox2 contains cucumber], [lunchbox2 in right], [camera's perspective is subjective viewpoint], [lunchbox1 is to the left of lunchbox2], [lunchbox1 is not located to the right of the lunchbox2]}",
+        "hop": 7
+    },
+    {
+        "image_name": "cfcd208495.jpeg",
+        "question": "Where is the smaller dog from the perspective of the bigger dog? ",
+        "answer": "left",
+        "reasoning": "{[smaller dog placed on the right], [bigger dog placed on the left], [bigger dog's left is the image's right], [smaller dog is to the left from bigger dog's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "aab3238922.jpg",
+        "question": "Is a purple mug in front of the blue mug from camera's perspective? ",
+        "answer": "no",
+        "reasoning": "{[purple mug is behind blue mug], [camera's perspective is subjective viewpoint], [purple mug is not in front of blue mug from camera's perspective]}",
+        "hop": 3
+    },
+    {
+        "image_name": "1679091c5a.jpeg",
+        "question": "Is the bigger mug closer to the tea spoon?",
+        "answer": "yes",
+        "reasoning": "{[big mug is on the right], [small mug is on the left], [spoon is to the right of small mug], [mug bigger is closer to the tea spoon] }",
+        "hop": 4
+    },
+    {
+        "image_name": "a5771bce93.jpeg",
+        "question": "Is the woman with the hat on left from the camera's perspective?",
+        "answer": "no",
+        "reasoning": "{[woman wearing hat with usa flag pattern], [woman wearing hat on the right], [camera perspective subjective viewpoint], [woman wearing hat is not on left from the camera's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "6512bf43d9.jpeg",
+        "question": "which side is the handle of black mug from the camera's perspective? ",
+        "answer": "left",
+        "reasoning": "{[mug1 is black], [handle is part of black mug], [handle on left of black mug], [camera's left is image's left], [handle is on left from camera's perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "6512bf43d9.jpeg",
+        "question": "What is the color of the mug placed between the black mug and yellow mug? ",
+        "answer": "white",
+        "reasoning": "{[black mug is on the fourth position from the left], [yellow mug is on the second position from the left], [white mug is between black mug and yellow mug]}",
+        "hop": 3
+    },
+    {
+        "image_name": "02e74f10e0.jpeg",
+        "question": "Is the woman with red dress located on the left from camera's perspective? ",
+        "answer": "no",
+        "reasoning": "{[woman1 is wearing red dress], [woman1 is on the right], [camera's right is image's right], [woman1 is not on the left from camera's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "6f4922f455.jpeg",
+        "question": "What is the color of the safety helmet of the person holding the clipboard?",
+        "answer": "white",
+        "reasoning": "{[person1 holding clipboard], [person1 wearing safety helmet], [safety helmet person1 wearing is white]}",
+        "hop": 3
+    },
+    {
+        "image_name": "c20ad4d76f.jpg",
+        "question": "What is the color of the cup directly below and to the right of the green cup?",
+        "answer": "blue",
+        "reasoning": "{[green cup is at the top], [blue cup is to the right of the green cup], [blue cup is directly below and to the right of the green cup]}",
+        "hop": 3
+    },
+    {
+        "image_name": "2c8342e67b.jpg",
+        "question": "Is the left ear of the dog is touched by this person?",
+        "answer": "no",
+        "reasoning": "{[dog facing camera], [dog's left ear is camera's right], [person touching the right side of the dog\u2019s head], [person is not touching the left ear of the dog]}",
+        "hop": 4
+    },
+    {
+        "image_name": "aab3238922.jpeg",
+        "question": "What is the color of the cup placed on top of the electronic device?",
+        "answer": "yellow",
+        "reasoning": "{[cup1 is yellow], [cup1 is on top of the electronic device]}",
+        "hop": 2
+    },
+    {
+        "image_name": "14574ddbee.jpg",
+        "question": "What is the color of the beverage that is placed behind the plate with bread?",
+        "answer": "brown",
+        "reasoning": "{[plate has bread], [beverage behind plate], [beverage is brown]}",
+        "hop": 3
+    },
+    {
+        "image_name": "2369931.jpg",
+        "question": "Towards which direction is the taller giraffe's head facing from camera's perspective?",
+        "answer": "right",
+        "reasoning": "{[taller giraffe is standing next to shorter giraffe], [taller giraffe's head facing right], [camera's perspective is subjective viewpoint], [taller giraffe's head facing right from camera's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_train.png",
+        "question": "What is the color of the object located to the left of the train engine?",
+        "answer": "red",
+        "reasoning": "{[train engine black],  [object to the left of train engine],  [object is red]}",
+        "hop": 3
+    },
+    {
+        "image_name": "e4da3b7fbb.jpeg",
+        "question": "what color is the mug located behind and to the right of the orange mug?",
+        "answer": "yellow",
+        "reasoning": "{[mug1 is orange], [mug is to the right of orange mug yellow], [mug is behind orange mug yellow], [yellow mug is behind and to the right of orange mug]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_tire.png",
+        "question": "What color is the goat that is to the right of the goat in the middle?",
+        "answer": "light brown",
+        "reasoning": "{[goat in the middle is light-colored with patches], [goat to the right of the middle goat is light brown], [light brown represents light brown color]}",
+        "hop": 3
+    },
+    {
+        "image_name": "a723df1b67.jpg",
+        "question": "What is the color the pants of the child holding the dog?",
+        "answer": "pink",
+        "reasoning": "{[child is holding a dog], [child is wearing pants], [pants are pink]}",
+        "hop": 3
+    },
+    {
+        "image_name": "bcae26745b.jpg",
+        "question": "What color is the object that is on the right of from the toddler's perspective?",
+        "answer": "yellow",
+        "reasoning": "{[toddler is front], [toddler perspective subjective viewpoint], [yellow object is to the toddler\u2019s right]}",
+        "hop": 3
+    },
+    {
+        "image_name": "c81e728d9d.jpeg",
+        "question": "What is the color of the juice between the slice of orange and kiwi?",
+        "answer": "red",
+        "reasoning": "{[orange is a slice], [kiwi is a slice], [orange is on the right], [kiwi is on the left], [juice is in glasses], [red juice is between orange and kiwi]}",
+        "hop": 6
+    },
+    {
+        "image_name": "img_dog_man.png",
+        "question": "what is the color of the shirt of the person sitting next to the dog?",
+        "answer": "blue",
+        "reasoning": "{[dog is on the right], [man is next to dog], [man's shirt is blue]}",
+        "hop": 3
+    },
+    {
+        "image_name": "cfcd208495.jpeg",
+        "question": "what is the position of the dog that has its mouth open relative to the dog with its mouth closed from camera's perspective?",
+        "answer": "left",
+        "reasoning": "{[dog1 has mouth open], [dog2 has mouth closed], [dog with open mouth is on left], [dog with closed mouth is on right], [camera's left is image's left], [dog with open mouth relative to dog with closed mouth camera's perspective is left]}",
+        "hop": 6
+    },
+    {
+        "image_name": "af20a2fbac.jpg",
+        "question": "What color is the shoes of the person next to the dog?",
+        "answer": "brown",
+        "reasoning": "{[dog is seated on floor], [person is standing next to dog], [person is wearing shoes], [shoes color is brown]}",
+        "hop": 4
+    },
+    {
+        "image_name": "2974f5b282.jpg",
+        "question": "What is the color of the shirt worn by the person sitting to the left of the whiteboard?",
+        "answer": "red",
+        "reasoning": "{[whiteboard is in the background], [whiteboard located behind people], [person wearing red shirt is left of whiteboard]}",
+        "hop": 3
+    },
+    {
+        "image_name": "ebd0a0daf4.jpg",
+        "question": "what item is on the floor to the right of the table behind the couple?",
+        "answer": "guitar",
+        "reasoning": "{[couple sitting on couch], [table behind couple], [guitar on floor], [guitar to the right of the table]}",
+        "hop": 4
+    },
+    {
+        "image_name": "223259c839.jpg",
+        "question": "What is the color of the pencil that the girl is writing with?",
+        "answer": "pink",
+        "reasoning": "{[girl is writing], [girl holding pencil], [pencil is pink], [girl writing with pink pencil]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_ball.png",
+        "question": "what is the material of the object beneath the ball?",
+        "answer": "wood",
+        "reasoning": "{[ball is on bat], [bat is beneath ball], [bat is made of wood]}",
+        "hop": 3
+    },
+    {
+        "image_name": "6512bf43d9.jpeg",
+        "question": "What is the color of the cup with the frowning face?",
+        "answer": "white",
+        "reasoning": "{[cup is with frowning face on the far right], [cup with frowning face is white]}",
+        "hop": 2
+    },
+    {
+        "image_name": "img_cart.png",
+        "question": "What color are the flowers located to the right of the cart?",
+        "answer": "red",
+        "reasoning": "{[cart contains flowers], [flowers are to the right of the cart], [flowers to the right are red]}",
+        "hop": 3
+    },
+    {
+        "image_name": "img_toaster.png",
+        "question": "What is placed on the left shelves directly above the teapot?",
+        "answer": "two mugs",
+        "reasoning": "{[teapot is on right of the shelves], [teapot is below left shelves], [two mugs are on left shelves above the teapot]}",
+        "hop": 3
+    },
+    {
+        "image_name": "02e74f10e0.jpeg",
+        "question": "What is the color of the dress worn by the woman to the right from camera's perspective?",
+        "answer": "red",
+        "reasoning": "{[camera's perspective is subjective viewpoint], [woman on right from camera's perspective is in red dress], [person is wearing red dress]}",
+        "hop": 3
+    },
+    {
+        "image_name": "93475832f9.jpg",
+        "question": "What is the color of the pencil on the notebook located to the right?",
+        "answer": "yellow",
+        "reasoning": "{[black pencil is on notebook], [yellow pencil is on notebook], [yellow pencil is on the right]}",
+        "hop": 3
+    },
+    {
+        "image_name": "img_parrot_f.png",
+        "question": "What item is hanging to the right of the bird?",
+        "answer": "bell",
+        "reasoning": "{[bell is hanging next to bird], [bell is on the right side of bird]}",
+        "hop": 2
+    },
+    {
+        "image_name": "img_dog_man_f.png",
+        "question": "what is the color of the clothing worn by the person who is between the mother and father?",
+        "answer": "pink",
+        "reasoning": "{[person is between mother and father], [mother on the left], [father on the right], [person in the middle], [person in the middle is wearing pink]}",
+        "hop": 5
+    },
+    {
+        "image_name": "a79be67389.jpg",
+        "question": "What is in front of the person standing in the middle?",
+        "answer": "laptop",
+        "reasoning": "{[person is standing in the middle], [laptop is on the table], [table is in front of the person standing in the middle], [laptop is on the table in front of the person standing in the middle]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_black_bridge_f.png",
+        "question": "What is the colour of the bridge with the american flag?",
+        "answer": "black",
+        "reasoning": "{[bridge has american flag], [bridge with american flag black]}",
+        "hop": 2
+    },
+    {
+        "image_name": "img_dog.png",
+        "question": "What is the color of the flowers to behind the dog?",
+        "answer": "purple",
+        "reasoning": "{[dog is sitting on floor], [flowers are behind dog], [flowers are on table], [flowers are purple]}",
+        "hop": 4
+    },
+    {
+        "image_name": "5266ec58fc.jpg",
+        "question": "what is the color of the object that the bird is perched on?",
+        "answer": "green",
+        "reasoning": "{[bird is perched on object], [object is green]}",
+        "hop": 2
+    },
+    {
+        "image_name": "img_trucks.png",
+        "question": "What is the color of the machine that is behind the tractor?",
+        "answer": "white",
+        "reasoning": "{[tractor is green], [a machine is behind tractor], [tractor is in the center], [machine behind tractor is white]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_egg.png",
+        "question": "what is the beverage in the glass behind the pancakes?",
+        "answer": "orange juice",
+        "reasoning": "{[glass is behind pancakes], [beverage in glass is orange], [beverage in glass is juice], [beverage is orange juice]}",
+        "hop": 4
+    },
+    {
+        "image_name": "3416a75f4c.png",
+        "question": "what is the color of the shirt worn by the person behind the seated person?",
+        "answer": "red",
+        "reasoning": "{[person1 is seated], [person2 is behind person1], [person2 is wearing red shirt]}",
+        "hop": 3
+    },
+    {
+        "image_name": "img_living_messy.png",
+        "question": "What is the color of the shirt hanging behind the sofa?",
+        "answer": "blue",
+        "reasoning": "{[shirt is hanging],[shirt behind sofa], [shirt is blue]}",
+        "hop": 3
+    },
+    {
+        "image_name": "img_on_bus.png",
+        "question": "What is the color of the shirt worn by the person sitting on top of the bus?",
+        "answer": "red",
+        "reasoning": "{[person is sitting on top of the bus], [person is wearing shirt], [shirt is red]}",
+        "hop": 3
+    },
+    {
+        "image_name": "255821e8dc.jpg",
+        "question": "What is the color of the sweater worn by the person standing in right side from the perspective of the woman in a black outfit?",
+        "answer": "beige",
+        "reasoning": "{[woman1 is wearing black outfit], [woman1 standing in the left side], [person standing in the right side of the woman1], [beige is the color of the sweater]}",
+        "hop": 4
+    },
+    {
+        "image_name": "4531d13aac.jpg",
+        "question": "What is the color of the notebook held by the person standing to the left from camera's perspective?",
+        "answer": "black",
+        "reasoning": "{[person is standing on the left], [person is holding a notebook], [notebook is black]}",
+        "hop": 3
+    },
+    {
+        "image_name": "img_egg_f.png",
+        "question": "What item is placed to the right of the toast and to the left of the pancakes?",
+        "answer": "bacon",
+        "reasoning": "{[toast is placed on the plate], [pancakes are placed on the plate], [bacon is placed to the right of toast], [bacon is placed to the left of pancakes]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_flood.png",
+        "question": "What is the color of the car to the left of women?",
+        "answer": "blue",
+        "reasoning": "{[women are in the middle and right of the image], [blue car located to the left of women]}",
+        "hop": 4
+    },
+    {
+        "image_name": "bf1b8aa472.jpg",
+        "question": "What is on the counter to the left of the laptop?",
+        "answer": "glass of milk",
+        "reasoning": "{ [laptop on counter], [glass_of_milk on counter], [glass_of_milk to the left of laptop]}",
+        "hop": 3
+    },
+    {
+        "image_name": "605c0dcc88.jpg",
+        "question": "what is the food item on the plate with cherry tomatoes?",
+        "answer": "steak",
+        "reasoning": "{[cherry tomatoes are on plate], [cherry tomatoes are on steak plate],[food item is steak], }",
+        "hop": 3
+    },
+    {
+        "image_name": "f0c281d11f.jpg",
+        "question": "which key on the keyboard is closest to the yellow sticky note on its top-left?",
+        "answer": "esc",
+        "reasoning": "{[yellow sticky note is on top-left], [keyboard is to the right of the yellow sticky note], [esc key is to the top-left of the keyboard], [esc key is closest to the yellow sticky note]}",
+        "hop": 4
+    },
+    {
+        "image_name": "8977abda25.jpg",
+        "question": "What is the color of the pencil immediately to the right of the white pencil?",
+        "answer": "red",
+        "reasoning": "{[pencil1 is white], [pencil2 is red], [red pencil is immediately right of white pencil]}",
+        "hop": 3
+    },
+    {
+        "image_name": "img_painting_f.png",
+        "question": "What is the hair color of the person standing to the left of the framed artwork?",
+        "answer": "blue",
+        "reasoning": "{[framed artwork on the wall], [person standing to the left of framed artwork], [hair color of person is blue]}",
+        "hop": 3
+    },
+    {
+        "image_name": "b7d81ec795.jpg",
+        "question": "what is the yellow object to the left of the person using a laptop?",
+        "answer": "telephone",
+        "reasoning": "{[person using laptop], [yellow object to the left], [yellow object is telephone], [telephone left of person using laptop]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_cricket_f.png",
+        "question": "What is the object in front of the stumps that the player is holding?",
+        "answer": "bat",
+        "reasoning": "{[player holding bat], [bat in front of stumps]}",
+        "hop": 2
+    },
+    {
+        "image_name": "img_glass.png",
+        "question": "what is the color of the drink positioned to the right from camera's perspective?",
+        "answer": "red",
+        "reasoning": "{[drink is positioned right from camera's perspective], [drink on the right is red]}",
+        "hop": 2
+    },
+    {
+        "image_name": "642e7d4900.jpg",
+        "question": "What is the color of the backpack of the child who is immediately to the left of the child with the pink backpack?",
+        "answer": "yellow",
+        "reasoning": "{[child1 backpack is pink], [child2 next to child1], [child2 immediately to the left of child1], [child2 backpack is yellow]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_cat.png",
+        "question": "What color is the pillow behind the cat on the right from camera's perspective?",
+        "answer": "green and white",
+        "reasoning": "{[cat on the right from camera's perspective], [pillow behind the cat], [pillow is green and white]}",
+        "hop": 3
+    },
+    {
+        "image_name": "791b2f6bc1.jpg",
+        "question": "What is the fur color of the animal to the right of the dog from camera's perspective?",
+        "answer": "orange",
+        "reasoning": "{[dog is on the left], [animal is to the right of the dog], [animal has fur color orange]}",
+        "hop": 3
+    },
+    {
+        "image_name": "img_beach_hat.png",
+        "question": "What is the color of the item that is in front of the basket and to the left of the woman?",
+        "answer": "beige",
+        "reasoning": "{[item is in front of basket], [item is to the left of the woman], [item is beige]}",
+        "hop": 3
+    },
+    {
+        "image_name": "img_birds.png",
+        "question": "What color is the bird to the right of the green hanging toy?",
+        "answer": "blue",
+        "reasoning": "{[green hanging toy center], [bird1 to the right of green hanging toy], [bird1 is blue]}",
+        "hop": 3
+    },
+    {
+        "image_name": "img_bic_front.png",
+        "question": "What is the color of the cycling helmet worn by the person on the right side of the image?",
+        "answer": "green",
+        "reasoning": "{[person on the right side is wearing cycling helmet], [cycling helmet worn by person on the right is green]}",
+        "hop": 2
+    },
+    {
+        "image_name": "img_tennis.png",
+        "question": "what is the color of the item that is closest to the racquet being held by the player?",
+        "answer": "yellow",
+        "reasoning": "{[player holding racquet], [ball closest to racquet], [ball is yellow], [closest item is yellow]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_tennis_f.png",
+        "question": "What color is the object that is in front of the tennis racket?",
+        "answer": "yellow",
+        "reasoning": "{[tennis ball  in front of tennis racket], [tennis ball is yellow]}",
+        "hop": 2
+    },
+    {
+        "image_name": "a529fb3623.jpg",
+        "question": "which object is positioned on the left of the laptop form person's perspective?",
+        "answer": "plant",
+        "reasoning": "{[person using laptop],  [laptop positioned in front of person], [plant positioned next to laptop], [plant positioned on the left of laptop]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_out_dog.png",
+        "question": "what is the color of the drinks located on the table?",
+        "answer": "green",
+        "reasoning": "{[drinks located on table], [drinks have color], [drinks color green]  }",
+        "hop": 3
+    },
+    {
+        "image_name": "img_bridge.png",
+        "question": "What is the color of the arrow on the sign located to the right from camera's perspective?",
+        "answer": "black",
+        "reasoning": "{[sign1 is on the right from camera's perspective], [arrow is on sign1], [arrow is black]}",
+        "hop": 3
+    },
+    {
+        "image_name": "d21a94a776.jpg",
+        "question": "who is standing in the background directly behind the boy?",
+        "answer": "man",
+        "reasoning": "{[boy is in the foreground], [man is standing], [man is directly behind the boy in the background]}",
+        "hop": 3
+    },
+    {
+        "image_name": "53453b4106.jpg",
+        "question": "what color is the object to the right of the person on the bench?",
+        "answer": "red",
+        "reasoning": "{[person is sitting on bench], [object is to the right of person on bench], [object is red]}",
+        "hop": 3
+    },
+    {
+        "image_name": "img_living_f.png",
+        "question": "What is the color of the flowers on the coffee table?",
+        "answer": "pink",
+        "reasoning": "{[coffee table is in front of sofa], [flowers are on the coffee table], [flowers are pink]}",
+        "hop": 3
+    },
+    {
+        "image_name": "img_behind_cows.png",
+        "question": "What is the color of the ox positioned in front and to the left from the man's perspective?",
+        "answer": "brown",
+        "reasoning": "{[ox is in front of the man], [ox is to the left from man's perspective], [ox is brown]}",
+        "hop": 3
+    },
+    {
+        "image_name": "fe314554b2.jpg",
+        "question": "What color is the goat positioned on the right side of the image from the viewer's perspective?",
+        "answer": "black and white",
+        "reasoning": "{[two goats are in the image], [one goat is positioned on the right side from viewer's perspective], [the goat on the right is black and white], [right side from viewer's perspective is image's right]}",
+        "hop": 4
+    },
+    {
+        "image_name": "563f334e7a.jpg",
+        "question": "what color is the sticky note that the person in the red shirt is touching?",
+        "answer": "blue",
+        "reasoning": "{[person is wearing red shirt], [person is touching sticky note], [sticky note is blue]}",
+        "hop": 3
+    },
+    {
+        "image_name": "c3beadb0f8.jpg",
+        "question": "what item is placed next to the plate, directly beneath the bouquet of mixed-colored flowers?",
+        "answer": "spoon",
+        "reasoning": "{ \"[bouquet is mixed-colored flowers], [bouquet is directly above plate], [spoon is placed next to plate], [spoon is directly beneath bouquet]}",
+        "hop": 4
+    },
+    {
+        "image_name": "71468a45c5.jpg",
+        "question": "What is the color of the object located to the left of the pen which is below the coffee cup?",
+        "answer": "yellow",
+        "reasoning": "{[pen is below coffee cup], [sticky note is below the cup], [sticky note is left of pen], [color of sticky note is yellow]}",
+        "hop": 4
+    },
+    {
+        "image_name": "img_car.png",
+        "question": "what color is the hat worn by the person sitting to the left of the one in the pink shirt?",
+        "answer": "white",
+        "reasoning": "{[person1 is wearing pink shirt], [person2 next to the left of person1], [person2 is wearing white hat], [hat color is white]}",
+        "hop": 4
+    },
+    {
+        "image_name": "1858d667e5.jpg",
+        "question": "Who is sitting to the right from perspective of the person holding a pizza slice?",
+        "answer": "man",
+        "reasoning": "{[woman holding pizza slice], [woman is sitting in the middle], [man is to the left of woman], [woman\u2019s right is image\u2019s left], [man is sitting to the right from the perspective of the person holding a pizza slice]}",
+        "hop": 5
+    },
+    {
+        "image_name": "7805b7e261.jpg",
+        "question": "What is the object positioned directly behind the glass of white wine?",
+        "answer": "wine bottle",
+        "reasoning": "{[glass has white wine], [glass in the center], [wine bottle behind glass of white wine]}",
+        "hop": 3
+    },
+    {
+        "image_name": "9nf31c7ff0.jpg",
+        "question": "which object is in front of the yellow cup?",
+        "answer": "strawberries",
+        "reasoning": "{[yellow cup is in center], [strawberries are in front of yellow cup]}",
+        "hop": 2
+    },
+    {
+        "image_name": "d79e15f80f.jpg",
+        "question": "What is the color of the shirt worn by a girl directly in front of the teacher giving a high-five?",
+        "answer": "red",
+        "reasoning": "{[girl is in front of the teacher], [teacher is giving a high-five], [girl in front is wearing a red shirt]}",
+        "hop": 3
+    },
+    {
+        "image_name": "dogs_running.jpg",
+        "question": "Which dog is jumping, the one to the left or the one to the right from the viewer's perspective?",
+        "answer": "left",
+        "reasoning": "{[dog1 is to the left of dog2], [dog1 is jumping], [dog2 is running], [viewer\u2019s perspective is subjective viewpoint], [dog1 is on the left from viewer\u2019s perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "2fa92c6849.png",
+        "question": "What fruit is on top of the cupcake that is to the right of the cupcake with blueberries on top?",
+        "answer": "strawberry",
+        "reasoning": "{[cupcake1 has fruit blueberries], [cupcake2 is on right of cupcake1], [fruit_on_top of cupcake2 is strawberry]}",
+        "hop": 3
+    },
+    {
+        "image_name": "82eb84d5b7.jpeg",
+        "question": "which figurine is positioned near the front corner of the blue box touching the silver gift?",
+        "answer": "santa figurine",
+        "reasoning": "{[blue box is touching silver gift], [front corner of blue box is near silver gift], [santa figurine is near front corner of blue box touching silver gift]}",
+        "hop": 3
+    },
+    {
+        "image_name": "ad114da6b1.jpeg",
+        "question": "Does the dress being touched by the person on the right have a price tag on?",
+        "answer": "yes",
+        "reasoning": "{[person is on the right], [person's hand touching dress], [dress has a price tag], [price tag on dress being touched by the person on the right]}",
+        "hop": 4
+    },
+    {
+        "image_name": "66199f224d.jpg",
+        "question": "What is the color of the notebook that is on lef from the perspective of the boy sitting at the front?",
+        "answer": "yellow",
+        "reasoning": "{[boy sitting in the front right], [yellow notebook on the right in the image], [image's right is boy's left], [notebook on the left from the boy's perspective yellow]}",
+        "hop": 4
+    },
+    {
+        "image_name": "ac8fe08c40.jpg",
+        "question": "What is the color of the gift located in front of gift with geometric pattern and to the right of the gift with the orange ribbon?",
+        "answer": "golden",
+        "reasoning": "{[gift1 has geometric pattern], [gift1 is in the background], [gift2 with orange ribbon], [gift2 is in the foreground left], [gift in question is in front of geometric pattern gift], [gift in question is to the right of orange ribbon gift], [gift in question is golden]}",
+        "hop": 7
+    },
+    {
+        "image_name": "df2409524c.jpg",
+        "question": "what is the color of the block in the front of the kid that is not stacked?",
+        "answer": "yellow",
+        "reasoning": "{[kid in overalls seated on the floor], [stacked blocks in front of kid], [yellow block in front of kid], [yellow block not stacked]}",
+        "hop": 4
+    },
+    {
+        "image_name": "d614a82546.jpg",
+        "question": "From the woman's perspective, what is the color of the flowers she is carrying in her right hand?",
+        "answer": "yellow",
+        "reasoning": "{[woman carrying flowers], [woman holding flowers in right hand], [flowers in right hand are yellow]}",
+        "hop": 3
+    },
+    {
+        "image_name": "f648ff472b.jpeg",
+        "question": "what is the color of gift box immediately to the left of the champagne glasses?",
+        "answer": "yellow",
+        "reasoning": "{[champagne glasses are in the middle], [yellow gift box is next to the champagne glasses on the left]}",
+        "hop": 2
+    },
+    {
+        "image_name": "ea570e33fe.jpg",
+        "question": "Is the yellow balloon positioned below in relation to the white balloon?",
+        "answer": "yes",
+        "reasoning": "{[balloon1 is yellow], [balloon2 is white], [balloon1 positioned below balloon2]}",
+        "hop": 3
+    },
+    {
+        "image_name": "dd7f34020f.jpg",
+        "question": "what is the color of the bowl nearest to the child sitting on the right side from the camera's perspective?",
+        "answer": "pink",
+        "reasoning": "{[child is on the right from camera's perspective], [bowl is nearest to the child on the right], [bowl is pink]}",
+        "hop": 3
+    },
+    {
+        "image_name": "5266b3ef39.jpeg",
+        "question": "Which item is to the immediate left of the green gift box with a bow?",
+        "answer": "brown gift box",
+        "reasoning": "{[green gift box has a bow], [brown gift box to the left of green gift box]}",
+        "hop": 2
+    },
+    {
+        "image_name": "9ca293573f.jpeg",
+        "question": "where is the girl in the blue shirt from the perspective of the boy with yellow cap?",
+        "answer": "right",
+        "reasoning": "{[girl is wearing blue shirt], [boy is wearing yellow cap], [girl is on the left in the image], [boy is on the right in the image], [boy's right is image's left], [girl is on the right from boy's perspective]}",
+        "hop": 6
+    },
+    {
+        "image_name": "bb2939fddb.jpg",
+        "question": "what is the color of the gift box under the gift that the person touching its ribbon?",
+        "answer": "pink",
+        "reasoning": "{[person touching ribbon upper gift box], [upper gift box polka-dot], [polka-dot gift box on top of pink gift box], [gift box under upper gift box pink]}",
+        "hop": 4
+    },
+    {
+        "image_name": "a6b6f5d8d6.jpg",
+        "question": "what is the color of the shirt worn by the person standing to the left of the man with glasses and white shirt?",
+        "answer": "blue",
+        "reasoning": "{[man1 is wearing glasses], [man1 is wearing white shirt], [another person is to the left of man with glasses and white shirt], [person to the left is wearing blue shirt]}",
+        "hop": 4
+    },
+    {
+        "image_name": "1e1d842020.jpeg",
+        "question": "What color is the jacket worn by the child behind the one wearing a blue beanie?",
+        "answer": "green",
+        "reasoning": "{[child1 is wearing blue beanie}, [child2 is behind child1}, [child2 is wearing green jacket]}",
+        "hop": 3
+    },
+    {
+        "image_name": "51b1b41624.jpeg",
+        "question": "what is on the plate that is positioned to the top left of the blue plate?",
+        "answer": "salad",
+        "reasoning": "{[blue plate is on the right side], [there is a plate to the top left of the blue plate], [salad is in the plate to the top left of the blue plate]}",
+        "hop": 3
+    },
+    {
+        "image_name": "36f383bd41.jpg",
+        "question": "From the viewer's perspective, where is the pink painting with the alphabets in relation to the painting of the bridge?",
+        "answer": "right",
+        "reasoning": "{[pink painting1 is with the alphabets], [painting2 is of the bridge], [viewer perspective is image perspective}, [painting1 is right of the painting2]}",
+        "hop": 4
+    },
+    {
+        "image_name": "59068f34e2.jpeg",
+        "question": "What color is the top worn by the woman standing on the left from the man's perspective?",
+        "answer": "white",
+        "reasoning": "{[woman is standing on the right in the image], [image's right is man's left], [woman is standing on left from man's perspective], [woman is wearing top], [top is white]}",
+        "hop": 5
+    },
+    {
+        "image_name": "7da3a02c1f.jpg",
+        "question": "what is the color of the ribbon of the gift immediately under the smallest gift box?",
+        "answer": "white",
+        "reasoning": "{[smallest gift box is on the top], [gift immediately under smallest gift box is blue box], [blue box's ribbon is white]}",
+        "hop": 3
+    },
+    {
+        "image_name": "a0c3d0555e.jpg",
+        "question": "what is the color of the drink held by the person located on the left from camera's perspective?",
+        "answer": "orange",
+        "reasoning": "{[person on the left is holding a drink], [person on the left is holding orange drink]}",
+        "hop": 2
+    },
+    {
+        "image_name": "09a20ca800.jpeg",
+        "question": "what is the color of the stuffed toy being held by the girl sitting on the left side of the image from the camera's perspective?",
+        "answer": "green",
+        "reasoning": "{[girl1 sitting on left side from camera's perspective], [girl1 is holding stuffed toy], [stuffed toy held by girl1 is green]}",
+        "hop": 3
+    },
+    {
+        "image_name": "9f42485d7f.jpg",
+        "question": "what color is the box that is immediately located on the top of the box with heart patterns?",
+        "answer": "red",
+        "reasoning": "{[box1 is with heart patterns], [box2 is immediately located on top of box2], [box2 is red]}",
+        "hop": 3
+    },
+    {
+        "image_name": "9e88e3f2a4.jpg",
+        "question": "what is the color of the shorts of the kid who is on the left side of the bucket from the camera's perspective?",
+        "answer": "blue",
+        "reasoning": "{[kid on the left side of the bucket from camera's perspective], [kid wearing blue shorts], [color of shorts blue]}",
+        "hop": 3
+    },
+    {
+        "image_name": "3d8682f386.jpg",
+        "question": "what is the color of the play-dough piece to the right of the green one this person's perspective?",
+        "answer": "yellow",
+        "reasoning": "{[play-dough piece1 is green], [play-dough piece2 is yellow], [play-dough piece2 is the left of green from image perspective], [image left is person's right], [play-dough piece2 to the right of play-dough piece2 from the person's perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "3dc8d990ae.jpg",
+        "question": "Is the woman in denim jacket facing away the woman in the white shirt with the graphic?",
+        "answer": "no",
+        "reasoning": "{[woman1 is wearing denim jacket], [woman2 is wearing white shirt with graphic], [woman1 is facing woman2], [woman1 is not facing away from the woman2]}",
+        "hop": 4
+    },
+    {
+        "image_name": "cb1eeeb8d4.jpeg",
+        "question": "where is the man with thew long beard from the perspective of the woman holding the baby?",
+        "answer": "left",
+        "reasoning": "{[man1 has long beard], [woman1 is holding baby], [woman1 is on the left], [man1 is next to woman1], [man1 is on the right from camera's perspective],[camera's right is woman1's left], [man1 is on the left from woman1 perspective]}",
+        "hop": 7
+    },
+    {
+        "image_name": "009ea349d3.jpg",
+        "question": "From the perspective of the woman wearing pink, where is the man with the white shirt?",
+        "answer": "right",
+        "reasoning": "{[woman1 is wearing pink], [man1 is wearing white shirt], [woman's perspective is subjective viewpoint], [man with white shirt is on woman's right]}",
+        "hop": 4
+    },
+    {
+        "image_name": "95429096ad.jpg",
+        "question": "what is the color of largest citrus slice directly located on the right of the non-sliced yellow lemon?",
+        "answer": "red",
+        "reasoning": "{[non-sliced lemon is whole}, [whole lemon is yellow], [largest citrus slice is grapefruit slice], [grapefruit slice is on the right of yellow lemon], [grapefruit slice is red]}",
+        "hop": 5
+    },
+    {
+        "image_name": "1e4ecb4b9a.jpeg",
+        "question": "what is the color of the swimsuit of the child immediately sitting to the left from the perspective of the boy wearing red and black?",
+        "answer": "blue and black",
+        "reasoning": "[boy1's swimsuit is red and black], [boy1 is the middle], [there is a child with a blue and black swimsuit], [child is on the right from camera's perspective], [camera's right is boy1's left],[child  immediately to the left of boy from boy's perspective], [child's swimsuit is blue and black]}",
+        "hop": 7
+    },
+    {
+        "image_name": "6b54748530.jpeg",
+        "question": "what color is the ball that the young girl is holding?",
+        "answer": "green",
+        "reasoning": "{[young girl holding ball], [ball is green]}",
+        "hop": 2
+    },
+    {
+        "image_name": "a0c8590331.jpeg",
+        "question": "Is there a white cushion to the right of the gray cushion with the word \"Home\" written on it?",
+        "answer": "no",
+        "reasoning": "{[cushion1 is gray and has the word home on it], [cushion2 is white], [cushion1 is on the right], [cushion2 is on the left]}",
+        "hop": 4
+    },
+    {
+        "image_name": "41374d56a4.jpg",
+        "question": "what is the color of the item to the right of the pine cone that is on top of the gold-wrapped gift box?",
+        "answer": "red",
+        "reasoning": "{[pine cone is on top of gold-wrapped gift box], [red item is to the right of pine cone on gold-wrapped gift box], [item color is red]}",
+        "hop": 3
+    },
+    {
+        "image_name": "f501620cc3.jpeg",
+        "question": "is the woman in purple dress on the right from the perspective of the woman wearing white pants?",
+        "answer": "yes",
+        "reasoning": "{[woman1 wearing purple dress], [woman2 wearing white pants], [woman1 is next to woman2], [woman1 is on the left from camera's perspective], [camera's perspective left is woman2's right], [woman1 is on right based on perspective of woman2]}",
+        "hop": 6
+    },
+    {
+        "image_name": "44b81a03c7.jpeg",
+        "question": "What color is the T-shirt worn by the man in the background?",
+        "answer": "gray",
+        "reasoning": "{[man1 is in background], [t-shirt of the man1 is gray],[man in background's t-shirt is gray]}",
+        "hop": 3
+    },
+    {
+        "image_name": "d9b04c09d3.jpeg",
+        "question": "is there the bucket in front of the boy with sunglasses?",
+        "answer": "no",
+        "reasoning": "{[boy1 is wearing sunglasses], [boy2 wearing a yellow hat], [bucket is in front of the boy2], [bucket is not in front of the boy with sunglasses]}",
+        "hop": 4
+    },
+    {
+        "image_name": "11b7a00d7a.jpg",
+        "question": "What is the color of the car that the child is touching?",
+        "answer": "white",
+        "reasoning": "{[child is touching car1], [car1 is white]}",
+        "hop": 2
+    },
+    {
+        "image_name": "96b0c1d174.jpeg",
+        "question": "is the strawberry outside the cup located on the left from the camera's perspective?",
+        "answer": "no",
+        "reasoning": "{[strawberry1 inside cup], [strawberry2 outside cup], [strawberry2 on the right], [camera's right is image's right], [strawberry2 is not on the left from camera's perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "7b19301559.jpg",
+        "question": "where is the woman with blue shirt from the perspective of the person with yellow shirt?",
+        "answer": "left",
+        "reasoning": "{[woman1 is wearing blue shirt], [woman1 is to the right in the image], [person1 wearing a yellow shirt], [person1 is to the left in the image], [person in yellow shirt's left is image's right], [woman with blue shirt is to the left from the perspective of person in yellow shirt]}",
+        "hop": 6
+    },
+    {
+        "image_name": "d9fd60c41d.jpeg",
+        "question": "what is the gender of the person wearing a hat and standing to the right from the horse 's perspective?",
+        "answer": "female",
+        "reasoning": "{[person1 wearing a hat], [person1 is on the left], [horse's right is image left], [person1 standing right from horse's perspective is female]}",
+        "hop": 4
+    },
+    {
+        "image_name": "b6d9e4c210.jpg",
+        "question": "What color is the shopping bag immediately behind the laptop from the woman's perspective?",
+        "answer": "yellow",
+        "reasoning": "{[shopping bag1 is behind laptop], [laptop is in front of woman], [shopping bag behind laptop is yellow]}",
+        "hop": 3
+    },
+    {
+        "image_name": "d55d0f8781.jpg",
+        "question": "What is the color of the pillow directly behind the vase from the viewer's perspective?",
+        "answer": "yellow",
+        "reasoning": "{[pillow1 is directly behind vase], [pillow1 is yellow]}",
+        "hop": 2
+    },
+    {
+        "image_name": "af2be7078b.jpg",
+        "question": "Is the person with striped dress cutting tomatoes to the right from the perspective of the girl drizzling oil?",
+        "answer": "no",
+        "reasoning": "{[girl1 is wearing striped dress], [girl1 is cutting tomatoes], [girl1 is on right], [girl2 is drizzling oil], [girl2 is at the middle right], [girl2's left is camera's right], [girl with striped dress is to the left from girl1's perspective]}",
+        "hop": 7
+    },
+    {
+        "image_name": "a585f9d7ef.jpeg",
+        "question": "is the person in a grey shirt to the right of the dog from the camera's perspective?",
+        "answer": "yes",
+        "reasoning": "{[person is wearing grey shirt], [dog is in front center], [person in grey shirt is on the right], [camera's right is image's right], [person in grey shirt is to the right of dog from camera's perspective]}",
+        "hop": 5
+    },
+    {
+        "image_name": "c754f135e6.jpeg",
+        "question": "what is the color of the shirt worn by the person directly in front of the one holding the tomato bowl?",
+        "answer": "white",
+        "reasoning": "{[person1 is holding tomato bowl], [person2 is in front of bowl holder], [person2 wearing white shirt]}",
+        "hop": 3
+    },
+    {
+        "image_name": "beb19fdcc8.jpg",
+        "question": "where is the boy wearing red and black hoodies from the perspective of the girl wearing a white and grey dress?",
+        "answer": "right",
+        "reasoning": "{[girl is wearing white and grey dress], [boy wearing red and black hoodies], [girl location right], [boy wearing red and black hoodies located left], [girl\u2019s right is image's left], [boy wearing red and black hoodies on the right from girl's perspective]}",
+        "hop": 6
+    },
+    {
+        "image_name": "cb20381cfd.jpeg",
+        "question": "Where is the wooden bowl containing apples in relation to the bowl with cinnamon sticks inside?",
+        "answer": "left",
+        "reasoning": "{[bowl1 contains apples], [bowl2 has cinnamon sticks], [bowl1 is on the left], [bowl2 sticks is on the right], [bowl1 is left of bowl2]}",
+        "hop": 5
+    },
+    {
+        "image_name": "a9d715ee66.jpeg",
+        "question": "Is the woman with the laptop sitting on the left from the perspective of the woman holding a phone?",
+        "answer": "no",
+        "reasoning": "{[woman1 holding a phone], [woman1 is sitting in middle], [woman2 holding a laptop], [woman2 is sitting on left], [middle's left is image's left is woman1's right], [woman with laptop sits on right from woman1's perspective]}",
+        "hop": 6
+    },
+    {
+        "image_name": "069949a956.jpg",
+        "question": "What is the color of the book directly beneath the book with candles on top?",
+        "answer": "red",
+        "reasoning": "{[book1 has candles on top], [book2 directly beneath book1], [book2 is red]}",
+        "hop": 3
+    },
+    {
+        "image_name": "b2d6ba7133.jpg",
+        "question": "Is the woman holding a red cup on the left from the perspective of the person playing the guitar?",
+        "answer": "no",
+        "reasoning": "{[woman holding red cup], [person playing guitar], [woman in middle], [guitarist on right], [guitarist perspective is subjective viewpoint], [woman to right from guitarist perspective]}",
+        "hop": 6
+    },
+    {
+        "image_name": "66d30067d4.jpeg",
+        "question": "what type of fruit is directly in left front of the glass filled with sticks from the camera's perspective?",
+        "answer": "mango",
+        "reasoning": "{[glass filled with sticks is on the table], [glass filled with sticks is in the center], [camera's perspective is subjective viewpoint], [mango is to the left of the glass filled with sticks from camera's perspective]}",
+        "hop": 4
+    },
+    {
+        "image_name": "e2db2b1295.jpg",
+        "question": "where is the girl holding a gift box sitting from the perspective of the girl wearing green?",
+        "answer": "left",
+        "reasoning": "{[girl holding gift box sitting at right], [girl wearing green sitting in the middle], [left of girl in the middle is image's right], [girl holding gift box left from perspective of girl wearing green]}",
+        "hop": 4
+    },
+    {
+        "image_name": "2bacf5f597.jpeg",
+        "question": "Are the baby shoes positioned to the right of the white sneakers from the camera's perspective?",
+        "answer": "yes",
+        "reasoning": "{[baby shoes are on the right], [white sneakers are in the middle], [baby shoes are to the right of white sneakers from camera's perspective]}",
+        "hop": 3
+    },
+    {
+        "image_name": "a51e3a5f20.jpeg",
+        "question": "where is the little girl from the perspective of the child with a yellow shirt?",
+        "answer": "left",
+        "reasoning": "{[child is wearing yellow shirt], [little girl is to the right of the image], [child with yellow shirt's left is image's right], [little girl is to the left from the perspective of child with yellow shirt]}",
+        "hop": 4
+    },
+    {
+        "image_name": "0b17565f20.jpeg",
+        "question": "Where is the donut with multicolored sprinkles in relation to the chocolate donuts?",
+        "answer": "middle",
+        "reasoning": "{[donut1 is center], [donut1 has multicolored sprinkles}, [chocolate donuts around multicolored donut], [multicolored sprinkles donut in relation to chocolate donuts is middle]}",
+        "hop": 4
+    }
+]
